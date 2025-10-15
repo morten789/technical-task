@@ -1,7 +1,7 @@
 {
-  "id": "3dba7ac7-54aa-426b-8a22-8291d0292d3a",
+  "id": "c41d925e-7ce8-453a-80a3-b4782eaaf625",
   "name": "technicaltask",
-  "publisher": "morten",
+  "publisher": "Morten",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -14,6 +14,7 @@
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
+  "runtime": "15.2",
   "idRanges": [
     {
       "from": 55000,
